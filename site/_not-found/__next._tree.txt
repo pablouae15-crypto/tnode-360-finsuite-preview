@@ -1,4 +1,4 @@
-:HL["/tnode-360-finsuite-preview/_next/static/chunks/36w2a_jb6m879.css","style"]
+:HL["/tnode-360-finsuite-preview/_next/static/chunks/2khz6mlimsbcn.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"P7Y8vU7gQMtAfcCuB1QEA","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"3rwkTpvB5Et1614km8juT","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
